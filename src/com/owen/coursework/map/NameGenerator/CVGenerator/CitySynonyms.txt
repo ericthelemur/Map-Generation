@@ -1,0 +1,50 @@
+# town 1699
+# manor 668
+# center 472
+# court 915
+# fort 437
+# castle 276
+#ton 15029
+#ville 13248
+#town 5230
+#son 4281
+#ley 3913
+#ford 3645
+#dale 3568
+#land 3344
+#field 3176
+#ham 2673
+#burg 2429
+#view 2248
+#man 1846
+#den 1520
+#side 1438
+#more 957
+#well 1393
+#mont 1276
+#by 1022
+# Castle=27600
+# Fort=43700
+ City=169900
+ Court=91500
+ Manor=66750
+# Center=47250
+ton=15029
+man=1846
+dale=3568
+ham=2673
+son=4281
+mont=1276
+ville=13248
+by=1022
+ley=3913
+well=1393
+field=3176
+den=1520
+burg=2429
+town=5230
+ford=3645
+more=957
+view=2248
+side=1438
+land=3344
